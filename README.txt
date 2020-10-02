@@ -44,7 +44,7 @@
 %  References:
 %   Dürig et al. (2012): doi.org/10.1007/s00445-011-0562-0
 %   Dürig et al. (2018): doi.org/10.4401/ag-7865
-%   Dürig et al. (2020): in review
+%   Dürig et al. (2020): doi.org/10.1007/s00445-020-01408-1
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % If you wish to contribute to the development of DendroScan,
 % or to report bugs or other problems with the software, please contact me 
@@ -53,15 +53,11 @@
 
 System requirements
 ===================
-DendroScan was developed and tested with Matlab R2019b on both Linux (debian) and Windows operation systems. DendroScan can be run with Matlab in default installation and does not require any additional Matlab libraries.
+DendroScan was developed and tested with Matlab R2019b on both Linux (ubuntu, fedora, redhat) and Windows operation systems. DendroScan can be run with Matlab in default installation and does not require any additional Matlab libraries.
 
 Installation and start
 ======================
-Unzip the software package in a folder of your choice. The program is started by opening “main.m” with Matlab and executing it. 
-
-
-
-To install DendroScan, unzip all contents of "DendroScan2_10.zip" in your work directory.
+To install DendroScan, clone or download all files to a folder in your work directory.
 To start the program, run "main.m".
 
 
