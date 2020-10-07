@@ -331,7 +331,7 @@ bg = uibuttongroup('Visible','on',...
     for i=1:length(f)
         txt = [txt f(i).name ' '];
     end
-    savename = ['results/DAPM_' datestr(now,'ddmmyyyy_HHMM')];
+    savename = ['results/DAPM_' datestr(now,'yyyymmdd_HHMM')];
     mkdir(savename)
     yourMsg = 'INFO ';
     fid = fopen([savename '/DAPM_LogFile.txt'], 'a');
