@@ -1,6 +1,8 @@
 # DendroScan - Software for multivariate statistical particle shape analyses 
 
-[![DOI](https://zenodo.org/badge/300608627.svg)](https://zenodo.org/badge/latestdoi/300608627)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4268151.svg)](https://doi.org/10.5281/zenodo.4268151)
+
 
 Copyright (C) 2020 by Tobias Dürig and Louise Steffensen Schmidt
 
