@@ -45,7 +45,7 @@ To start the program, run **"main.m"**.
   Input is in the form of flat ASCII files in '.csv' format, containing 
        a list of morphometric parameters. DendroScan was designed to
        digest tables produced by the software PARTIcle Shape ANalyzer 
-       ([PARTISAN](https://doi.org/10.4401/ag-7865)) by Dürig et al. (2018).
+       ([PARTISAN](https://doi.org/10.4401/ag-7865)) by Dürig et al. (2018). Please use the newest version of the software, which can be found at: https://github.com/lsschmidt/PARTISAN
       
   Output files according to selection in the GUI.
 
